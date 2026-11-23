@@ -38,14 +38,14 @@ top-writer-pro/
 用户级（所有项目可用）：
 
 ```bash
-git clone https://github.com/kisset987702-debug/top-writer-pro.git \
+git clone https://github.com/kisset987702-debug/literate-happiness.git \
   ~/.workbuddy/skills/top-writer-pro
 ```
 
 项目级（仅当前仓库）：
 
 ```bash
-git clone https://github.com/kisset987702-debug/top-writer-pro.git \
+git clone https://github.com/kisset987702-debug/literate-happiness.git \
   .workbuddy/skills/top-writer-pro
 ```
 
